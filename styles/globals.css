@@ -1,16 +1,79 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-size: 1.2rem;
+}
+.card{
+    background: #fff;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    transition: all 0.2s ease-in-out;
+}
+.card:hover{
+    transform: scale(1.02);
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+.easy-container{
+    margin: auto;
+    min-height: 300px;
+    position: relative;
+    width: 100%;
+}
+.color{
+    color: #f59e0b;
+
+}
+.bg{
+    background-color: #f59e0b;
+}
+.social:hover{ 
+    color: #FFF;
+    font-size: 24px;   
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+
+
+.sprinkle{
+    position: relative;
+    overflow: hidden;
+    height: 300px;
+    width: 100%;
+    background: url('../public/sprinkle.svg');
+    display: flex;
+    justify-content: center;
+    background-repeat: repeat-x;
+    align-items: center;
+}
+.content{
+    /* position: absolute; */
+    /* top:0; */
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* background: rgba(255,255,255,.1); */
+}
+.content p{
+    background: red;
+    background:  rgba(255, 255, 255, 0.7)
+
+}
+@media screen and (max-width: 768px){
+    .sprinkle{
+        height: 400px;
+    }
+    .content{
+        height: 400px;
+
+    }
 }
 
-* {
-  box-sizing: border-box;
-}
