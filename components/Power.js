@@ -12,7 +12,7 @@ const Power = () => {
                 and ask your people those burning questions.
             </p>
             <div>
-                <Link passHref={true} href="https://pluralforms.com">
+                <Link passHref={true} href="https://app.pluralforms.com">
                     <a aria-label="Try PluralForms" className="bg-gray-900 text-white  hover:bg-yellow-600 focus:ring-4
                                      focus:ring-yellow-300 text-lg
                                     font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 

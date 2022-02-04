@@ -5,8 +5,8 @@ import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaYoutube } from 'react
 
 const Footer = () => {
     return (
-        <footer className='bg-gray-900  px-4 sm:px-16  flex flex-col sm:flex-row w-full justify-between text-white py-4'>
-            <div className='font-semibold tracking-wider'>
+        <footer className='bg-gray-900 tracking-widest text-sm px-4 sm:px-16  flex flex-col sm:flex-row w-full justify-between text-white py-4'>
+            <div className='font-semibold '>
                 <div>
                     &copy; PluralForms  {new Date().getFullYear()}
                 </div>
@@ -19,7 +19,7 @@ const Footer = () => {
                 <div>Feel free to reach out..</div>
                 <nav className="flex gap-10 sm:gap-6 mt-4 sm:mt-1 text-white space-y-1">
                     <SocialIcons>
-                        <SocialIconLink href="https://linkedin.com/" aria_label="Linkedin" target="_blank"
+                        <SocialIconLink href="https://linkedin.com/pluralforms" aria_label="Linkedin" target="_blank"
                             rel="noreferrer" data-name="Linkedin" title="PluralForms on Linkedin">
                             <FaLinkedin />
                         </SocialIconLink>
@@ -27,15 +27,10 @@ const Footer = () => {
                             target="_blank" rel="noreferrer" data-name="Facebook" title="PluralForms on Facebook">
                             <FaFacebook />
                         </SocialIconLink>
-                        <SocialIconLink href="https://instagram.com/" aria_label="Instagram" target="_blank"
+                        <SocialIconLink href="https://instagram.com/pluralforms" aria_label="Instagram" target="_blank"
                             rel="noreferrer" data-name="Instagram" title="PluralForms on Instagram">
                             <FaInstagram />
                         </SocialIconLink>
-                        <SocialIconLink href="https://twitter.com/" aria_label="Twitter" target="_blank"
-                            rel="noreferrer" data-name="Twitter" title="PluralForms on Twitter">
-                            <FaTwitter />
-                        </SocialIconLink>
-
 
 
                     </SocialIcons>
