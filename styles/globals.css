@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body{
     font-size: 1.2rem;
-}
+    font-family: 'Poppins', sans-serif;
+}   
 .card{
     background: #fff;
     display: flex; 

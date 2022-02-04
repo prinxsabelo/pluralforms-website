@@ -5,14 +5,14 @@ import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaYoutube } from 'react
 
 const Footer = () => {
     return (
-        <div className='bg-gray-900 px-2 sm:px-16 flex flex-col sm:flex-row w-full justify-between text-white py-4'>
+        <footer className='bg-gray-900  px-4 sm:px-16  flex flex-col sm:flex-row w-full justify-between text-white py-4'>
             <div className='font-semibold tracking-wider'>
                 <div>
                     &copy; PluralForms  {new Date().getFullYear()}
                 </div>
                 <div className='h-2'></div>
-                <div className='text-sm tracking-widest'>
-                    Made with love for you.
+                <div className='text-sm tracking-widest uppercase'>
+                    Made with love only for you.
                 </div>
             </div>
             <div>
@@ -42,7 +42,7 @@ const Footer = () => {
                 </nav>
 
             </div>
-        </div>
+        </footer>
     )
 };
 

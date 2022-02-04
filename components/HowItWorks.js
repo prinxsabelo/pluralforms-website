@@ -5,7 +5,7 @@ const HowItWorks = () => {
     return (
         <div className='my-8'>
             <div>
-                <p className='text-center capitalize font-bold text-3xl py-2 sm:py-4 px-2'>
+                <p className='text-center capitalize font-medium text-3xl py-2 sm:py-4 px-2'>
                     PluralForms works its magic for you.
                 </p>
             </div>
