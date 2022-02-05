@@ -29,7 +29,7 @@ const Plural = () => {
                     </div>
                 </div>
                 <div className='lg:w-1/2 relative '>
-                    <Image src='/cover.svg' width="100%" height="100%" placeholder='blur' blurDataURL={`${coverSVG}`}
+                    <Image src={`${coverSVG}`} width="100%" height="100%" placeholder='blur' blurDataURL={`${coverSVG}`}
                         layout="responsive" objectFit="contain"
                         alt="cover" priority="true" />
                 </div>
