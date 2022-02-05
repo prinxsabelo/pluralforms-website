@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="keywords" content="PluralForms, Africa form builder,PluralForms is free, no login, 
                                         free forever, create forms,  plural forms, form analysis, online form builder"/>
-        <meta name="description" content="Best Africa form builder. Completely blended for you to create forms 
+        <meta name="description" content="Completely blended for you to create forms 
                                           and get detailed analysis. No login, No hassle. PluralForms is free"/>
         <meta name="robots" content="ALL" />
         <meta property="og:image:width" content="1200" />
@@ -21,7 +21,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://www.pluralforms.com/" />
         <meta property="og:title" content="PluralForms:  Africa Online Form Builder" />
-        <meta property="og:description" content="Best Africa form builder. Completely blended for you to create forms 
+        <meta property="og:description" content="Completely blended for you to create forms 
                                           and get detailed analysis. No login, No hassle. PluralForms is free" />
 
         {/* <meta property="og:image" content="" /> */}

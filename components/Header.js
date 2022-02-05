@@ -17,7 +17,7 @@ const Header = () => {
                 <nav >
                     <Link aria-label="PluralForms"
                         href="https://app.pluralforms.com" passHref={true} >
-                        <a className="bg-yellow-900 text-white p-2 tracking-wider text-sm sm:text-lg tracking-wide 
+                        <a className="pf text-white p-2 tracking-wider text-sm sm:text-lg tracking-wide 
                                 rounded-lg hover:bg-gray-800 font-medium cursor-pointer block truncate">
                             Get started <span className='hidden sm:inline-block'> — it&apos;s free </span>
                         </a>
