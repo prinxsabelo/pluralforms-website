@@ -5,9 +5,7 @@ const Power = () => {
     return (
         <div className='py-8 px-4 sm:px-16 flex flex-col space-y-4 sm:space-y-2 '>
             <p className='text-5xl tracking-tight sm:tracking-wide capitalize '>Use PluralForms, create classic forms.</p>
-            <p className='text-3xl tracking-wider text-yellow-900 font-bold w-full'>
-                PluralForms notifications let you know when you have new form responses too.
-            </p>
+
             <p className='tracking-wider'>You don&apos;t need need our permission to create that form
                 and ask your people those burning questions.
             </p>

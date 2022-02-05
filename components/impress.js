@@ -7,10 +7,8 @@ const Impress = () => {
             <div className='w-full sm:w-2/3 text-center text-lg tracking-widest px-4 '>
                 <p>You can create a question, like you are chatting with the respondent,
                     by providing an auto response for the question specifically for Y/N.</p>
-                <p>Definitely, you have freedom to create a form anywhere.</p>
-                <p>Absolutely, you have easy access too, continue pretty simple, with just one social account.</p>
-
-                <p></p>
+                <p>Definitely, you have freedom to create a form anywhere, notifications is ready
+                    when you have new form responses too.</p>
             </div>
         </div>
 
