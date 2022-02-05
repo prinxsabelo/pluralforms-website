@@ -2,6 +2,7 @@ import React from 'react';
 import Image from 'next/image'
 import Link from 'next/link';
 
+const coverSVG = 'https://ik.imagekit.io/xc4qx4w3wyr/cover_AeqzfYEr7.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644073142626';
 const Plural = () => {
     return (
         <>
@@ -28,7 +29,8 @@ const Plural = () => {
                     </div>
                 </div>
                 <div className='lg:w-1/2 relative '>
-                    <Image src='/cover.svg' width="100%" height="100%" layout="responsive" objectFit="contain"
+                    <Image src={`${coverSVG}`} width="100%" height="100%" placeholder='blur' blurDataURL={`${coverSVG}`}
+                        layout="responsive" objectFit="contain"
                         alt="cover" priority="true" />
                 </div>
             </section>

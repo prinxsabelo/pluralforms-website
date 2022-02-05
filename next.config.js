@@ -1,3 +1,11 @@
+const withPlugins = require('next-compose-plugins')
+const withImages = require('next/image')
+const nextConfig = {
+  images: {
+    domains: ['ik.imagekit.io']
+  }
+}
+
 module.exports = {
   i18n: {
     locales: ["en"],
@@ -10,5 +18,8 @@ module.exports = {
       "styled-components",
       { "ssr": true, "displayName": true, "preprocess": false }
     ]
-  ]
+  ],
 }
+module.exports = withPlugins([[withImages]], nextConfig)
+
+
