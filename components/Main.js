@@ -9,8 +9,8 @@ const Main = () => {
         <main className='flex flex-col flex-1'>
             <Plural />
             <Easy />
-            <Impress />
             <HowItWorks />
+            <Impress />
             <Power />
         </main>
     )
