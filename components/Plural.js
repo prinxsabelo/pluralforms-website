@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image'
 import Link from 'next/link';
 
-const coverSVG = 'https://ik.imagekit.io/xc4qx4w3wyr/cover_AeqzfYEr7.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644073142626';
+const coverSVG = 'https://ik.imagekit.io/xc4qx4w3wyr/cover_1__Y-CX6vNjZ.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1644096937426';
 const Plural = () => {
     return (
         <>
@@ -23,13 +23,13 @@ const Plural = () => {
                         </p>
 
                         <Link aria-label="Start Building" href="https://app.pluralforms.com">
-                            <a className='pf px-8 py-2 rounded-lg focus:ring-yellow-300 focus:ring-4 mt-2
+                            <a className='pf text-yellow-900 px-8 py-2 rounded-lg focus:ring-yellow-300 focus:ring-4 mt-2
                              text-yellow-100 text-xl tracking-wider  hover:bg-yellow-600 font-medium rounded-lg'>   Start Building</a>
                         </Link>
                     </div>
                 </div>
                 <div className='lg:w-1/2 relative '>
-                    <Image src={`${coverSVG}`} width="100%" height="100%" placeholder='blur' blurDataURL={`${coverSVG}`}
+                    <Image src='/cover.svg' width="100%" height="100%" placeholder='blur' blurDataURL={`${coverSVG}`}
                         layout="responsive" objectFit="contain"
                         alt="cover" priority="true" />
                 </div>
