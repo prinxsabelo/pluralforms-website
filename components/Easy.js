@@ -11,7 +11,7 @@ const Easy = () => {
                         you can create form anywhere even with your mobile phone.
                         We&apos;re really after building better user experience for you.
                         You can create engaging forms with no strings attached. <br />
-                        Feel the vibe 🥰
+                        Feel the vibe &#129392;
                     </p>
                 </div>
             </div>
