@@ -10,8 +10,8 @@ const Easy = () => {
                         PluralForms is <span className='font-black underline'>free forever</span>, fast, simple and super easy,
                         you can create form anywhere even with your mobile phone.
                         We&apos;re really after building better user experience for you.
-                        You can create engaging forms with no strings attached.
-                        Feel the vibe 🥰🥰🥰 ..
+                        You can create engaging forms with no strings attached. <br />
+                        Feel the vibe 🥰
                     </p>
                 </div>
             </div>
