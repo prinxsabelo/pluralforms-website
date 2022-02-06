@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>PluralForms: Africa Online Form Builder</title>
+        <title>PluralForms - Africa Online Form Builder </title>
         <meta charSet='utf-8' />
         <meta content='IE=edge' httpEquiv='X-UA-Compatible' />
         <meta content="en" httpEquiv="content-language" />
