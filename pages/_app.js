@@ -11,8 +11,8 @@ function MyApp({ Component, pageProps }) {
         <meta content="en" httpEquiv="content-language" />
         <link rel="canonical" href="https://www.pluralforms.com/" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta name="keywords" content="PluralForms, Africa form builder,PluralForms is free, no login, 
-                                        free forever, create forms,  plural forms, form analysis, online form builder"/>
+        <meta name="keywords" content="PluralForms, Africa form builder,PluralForms is free, 
+                                         create forms,  plural forms, form analysis, online form builder"/>
         <meta name="description" content="Completely blended for you to create forms 
                                           and get detailed analysis. No login, No hassle. PluralForms is free"/>
         <meta name="robots" content="ALL" />

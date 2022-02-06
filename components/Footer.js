@@ -14,6 +14,7 @@ const Footer = () => {
                 <div className='text-sm tracking-widest uppercase'>
                     Made with love only for you.
                 </div>
+                <a href="https://www.tuugo.com.ng/Companies/pluralforms/14700017129">Pluralforms</a> <a href="https://www.tuugo.com.ng/categories/technology:2989">Technology</a>
             </div>
             <div>
                 <div>Feel free to reach out..</div>
