@@ -23,8 +23,8 @@ const Plural = () => {
                         </p>
 
                         <Link aria-label="Start Building" href="https://app.pluralforms.com">
-                            <a className='pf text-yellow-900 px-8 py-2 rounded-lg focus:ring-yellow-300 focus:ring-4 mt-2
-                             text-yellow-100 text-xl tracking-wider  hover:bg-yellow-600 font-medium rounded-lg'>   Start Building</a>
+                            <a className='pf font-black px-8 py-2 rounded-lg focus:ring-yellow-300 focus:ring-4 mt-2
+                             text-white text-xl tracking-widest  hover:bg-yellow-600 font-medium rounded-lg'>   Start Building</a>
                         </Link>
                     </div>
                 </div>
