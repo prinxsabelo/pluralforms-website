@@ -2,8 +2,10 @@ const withPlugins = require('next-compose-plugins')
 const withImages = require('next/image')
 const nextConfig = {
   images: {
-    domains: ['ik.imagekit.io']
-  }
+    domains: ['ik.imagekit.io'],
+    loader: 'akamai',
+    path: '',
+  },
 }
 
 module.exports = {
