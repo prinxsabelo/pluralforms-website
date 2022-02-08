@@ -9,6 +9,7 @@ function MyApp({ Component, pageProps }) {
         <meta charSet='utf-8' />
         <meta content='IE=edge' httpEquiv='X-UA-Compatible' />
         <meta content="en" httpEquiv="content-language" />
+        <meta name="google-site-verification" content="crMpNztfMCaM3Hy24KLmxazACf-1HMsxSHQDJJkPCzs" />
         <link rel="canonical" href="https://www.pluralforms.com/" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="keywords" content="PluralForms, Africa form builder,PluralForms is free, 
