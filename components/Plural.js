@@ -6,7 +6,7 @@ const coverSVG = 'https://ik.imagekit.io/xc4qx4w3wyr/cover_1__Y-CX6vNjZ.svg?ik-s
 const Plural = () => {
     return (
         <>
-            <h1 className='sr-only'>Welcome to PluralForms</h1>
+            <h2 className='sr-only'>Welcome to PluralForms</h2>
             <section className='px-4 pb-4 sm:pb-2  sm:px-16 flex  flex-col lg:flex-row flex-col-reverse lg:w-full 
                                 overflow-y-hidden lg:items-center lg:justify-between  sm:gap-16 
                             '>
