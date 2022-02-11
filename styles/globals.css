@@ -2,10 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+
 body{
     font-size: 1.2rem;
-    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Inter', sans-serif;
+    color:  #444;
 }   
+h1, h2, h3, h4,h5,h6{
+    color: #111;
+}
 .card{
     background: #fff;
     display: flex; 

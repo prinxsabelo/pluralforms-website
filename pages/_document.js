@@ -12,9 +12,8 @@ export default function Document() {
                 <link rel="manifest" href="/site.webmanifest"></link>
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin='' />
-                <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&display=swap" rel="stylesheet" />
 
-            </Head>
+                <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet" />            </Head>
             <body>
                 <Main />
                 <NextScript />

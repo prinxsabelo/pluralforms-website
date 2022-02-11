@@ -8,3 +8,4 @@ Host: https://www.pluralforms.com
 # Sitemaps
 Sitemap: https://www.pluralforms.com/sitemap.xml
 Sitemap: https://www.pluralforms.com/sitemap-0.xml
+
