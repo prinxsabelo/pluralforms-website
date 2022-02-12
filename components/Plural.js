@@ -16,7 +16,7 @@ const Plural = () => {
                             Plural Forms for Plural Thoughts
                         </h1>
 
-                        <p className="tracking-widest my-6 text-base sm:text-lg" >
+                        <p className="tracking-wider my-6 text-base sm:text-lg" >
                             Version 1 of the best Africa form builder.
                             Completely blended for you to create forms<span className='sm:hidden'>.</span> <span className='hidden sm:inline'> and get detailed analysis. </span>  <br className='hidden sm:flex' />
                             No login, No hassle. <span className='font-semibold'>PluralForms is free</span>

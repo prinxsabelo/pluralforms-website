@@ -4,7 +4,7 @@ import React from 'react';
 const Power = () => {
     return (
         <div className='py-8 px-4 sm:px-16 flex flex-col space-y-6 sm:space-y-2 text-center'>
-            <p className='text-3xl font-semibold tracking-widest capitalize'>
+            <p className='text-3xl font-semibold tracking-wide capitalize'>
                 Use PluralForms, create classic forms.
             </p>
 
