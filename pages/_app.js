@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:description" content="Completely blended for you to create forms 
                                           and get detailed analysis. No login, No hassle. PluralForms is free" />
 
-        {/* <meta property="og:image" content="" /> */}
+        {/* <meta property="og:image" content="" />    */}
         {/* <meta property="og:image:secure_url" content="" /> */}
         {/* <meta name="twitter:image" content="" /> */}
 
