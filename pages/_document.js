@@ -13,11 +13,9 @@ export default function Document() {
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin='' />
 
-                <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet"
-                    onload="this.onload=null;this.rel='stylesheet'"
-                    as="style" rel="preload"
 
-                />
+                <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap"
+                    rel="preconnect" rel="stylesheet" />
             </Head>
             <body>
                 <Main />
