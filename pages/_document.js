@@ -15,7 +15,7 @@ export default function Document() {
 
 
                 <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap"
-                    rel="preconnect" rel="stylesheet" />
+                    rel="stylesheet" />
             </Head>
             <body>
                 <Main />
