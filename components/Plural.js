@@ -8,7 +8,7 @@ const Plural = () => {
         <>
             <h2 className='sr-only'>Welcome to PluralForms</h2>
             <section className='px-4 pb-4 sm:pb-2  sm:px-16 flex  flex-col lg:flex-row flex-col-reverse lg:w-full 
-                                overflow-y-hidden lg:items-center lg:justify-between  sm:gap-16 
+                                overflow-y-hidden lg:items-center lg:justify-between  sm:gap-16
                             '>
                 <div className='w-full lg:w-1/2 sm:pr-16' >
                     <div className='lg:max-w-2xl lg:max-auto  '>

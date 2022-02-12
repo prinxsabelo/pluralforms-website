@@ -6,7 +6,7 @@ import Plural from './Plural';
 import Power from './Power';
 const Main = () => {
     return (
-        <main className='flex flex-col flex-1'>
+        <main className='flex flex-col flex-1 leading-relaxed'>
             <Plural />
             <Easy />
             <HowItWorks />

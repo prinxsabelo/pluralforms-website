@@ -5,8 +5,9 @@
 
 body{
     font-size: 1.2rem;
-    font-family: 'Inter', sans-serif;
+    font-family: 'DM Sans', sans-serif;
     color:  #444;
+    line-height: 24px !important;
 }   
 h1, h2, h3, h4,h5,h6{
     color: #111;

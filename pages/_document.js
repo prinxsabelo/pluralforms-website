@@ -13,7 +13,12 @@ export default function Document() {
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin='' />
 
-                <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet" />            </Head>
+                <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet"
+                    onload="this.onload=null;this.rel='stylesheet'"
+                    as="style" rel="preload"
+
+                />
+            </Head>
             <body>
                 <Main />
                 <NextScript />
