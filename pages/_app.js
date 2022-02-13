@@ -29,7 +29,6 @@ function MyApp({ Component, pageProps }) {
                                          create forms,  plural forms, form analysis, online form builder"/>
         <meta name="description" content="Completely blended for you to create forms 
                                           and get detailed analysis. No login, No hassle. PluralForms is free"/>
-        <meta name="robots" content="noindex,follow" />
 
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="628" />
