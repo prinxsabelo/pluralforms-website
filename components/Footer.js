@@ -16,6 +16,7 @@ const Footer = () => {
                 </div>
                 <a href="https://www.tuugo.com.ng/Companies/pluralforms/14700017129" className='uppercase hidden'>Pluralforms</a>
                 <a href="https://www.tuugo.com.ng/categories/technology:2989" className='uppercase ml-2 hidden'>Technology.</a>
+                <a href="https://www.dicedirectory.com/" className='hidden'>Dice Directory.com</a>
             </div>
             <div>
                 <div>Feel free to reach out..</div>
