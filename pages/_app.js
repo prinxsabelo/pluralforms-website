@@ -32,11 +32,11 @@ function MyApp({ Component, pageProps }) {
 
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="628" />
-        <meta property="og:type" content="article" />
+        <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.pluralforms.com/" />
-        <meta property="og:title" content="PluralForms:  Africa Online Form Builder" />
+        <meta property="og:title" content="PluralForms – Africa Online Form Builder" />
         <meta property="og:description" content="Completely blended for you to create forms 
-                                          and get detailed analysis. No login, No hassle. PluralForms is free" />
+                                          and get detailed analysis. PluralForms is free" />
 
         {/* <meta property="og:image" content="" />    */}
         {/* <meta property="og:image:secure_url" content="" /> */}
